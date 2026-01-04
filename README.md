@@ -37,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sky471012&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
