@@ -33,23 +33,23 @@
 
 ### 💻 Languages & Frontend
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,cpp,java,python,go,html,css,react,nextjs,redux,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend & Databases
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,supabase,redis,rabbitmq,kafka" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongoose,sequelize" />
 </p>
 
 ### 🤖 AI & GenAI
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge" />
@@ -59,11 +59,11 @@
 
 ### 🛠️ Developer Tools & Platforms
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/nvm-000000?style=for-the-badge" />
@@ -75,7 +75,7 @@
 
 ### 🧠 Areas of Interest
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Design-222222?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend%20Development-222222?style=for-the-badge" />
@@ -104,7 +104,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sky471012&theme=onedark&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sky471012&theme=onedark&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -112,5 +112,5 @@
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky471012&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky471012&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
