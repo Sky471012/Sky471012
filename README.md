@@ -19,14 +19,10 @@
 
 ### 🧑‍💻 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/aakash-sharma-a178062a7" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+<p align="left">
+  <a href="https://linkedin.com/in/aakash-sharma-a178062a7" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   &nbsp;
-  <a href="https://github.com/sky471012" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+  <a href="https://github.com/sky471012" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
 </p>
 
 ---
@@ -34,18 +30,16 @@
 ### 💻 Languages & Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,python,go,html,css,react,nextjs,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,python,go,html,css,react,nextjs,redux,bootstrap,tailwind&perline=12" />
 </p>
 
 ### ⚙️ Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,supabase,redis,rabbitmq,kafka" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,supabase,redis,rabbitmq,kafka,sequelize&perline=11" />
+  </br><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongoose,sequelize" />
-</p>
 
 ### 🤖 AI & GenAI
 
@@ -60,7 +54,7 @@
 ### 🛠️ Developer Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
 </p>
 
 <p align="left">
@@ -101,16 +95,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sky471012&theme=onedark&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky471012&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/torvalds/torvalds/output/pacman-contribution-graph.svg">
+</picture>
