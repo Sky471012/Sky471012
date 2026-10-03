@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Chrome+Extension+Builder;UI/UX+Designer;Hackathon+Enthusiast;Tech+Explorer&font=Fira%20Code&center=true&width=440&height=45&color=00ADB5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Backend+Developer;AI+Engineer;System+Design+Enthusiast;Hackathon+Enthusiast&font=Fira%20Code&center=true&width=500&height=45&color=00ADB5&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Third-year B.Tech student specializing in Information Technology. I build robust web apps, browser extensions, and interactive UI/UX experiences. I love coding clean, scalable, and impactful software.
+  B.Tech student in Information Technology at MSIT. I build full-stack applications,
+  backend systems, browser extensions and AI-powered applications with a focus on
+  scalable and reliable software.
 </p>
 
 ---
 
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aakash-sharma-a178062a7)  
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aakash-sharma-a178062a7)
 - 📄 [View my Resume](https://drive.google.com/file/d/1B7pS-RKuUNM1JOWeQwCtzYy54xpI3EuD/view)
 
 ---
 
-### 🧑‍💼 Connect with Me
+### 🧑‍💻 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/aakash-sharma-a178062a7" target="_blank">
@@ -29,11 +31,61 @@
 
 ---
 
-### 💻 Languages & Tools
+### 💻 Languages & Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,c,cpp,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,python,go,html,css,react,nextjs,redux,bootstrap,tailwind" />
 </p>
+
+### ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,supabase,redis,rabbitmq,kafka" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongoose,sequelize" />
+</p>
+
+### 🤖 AI & GenAI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=langchain" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
+</p>
+
+### 🛠️ Developer Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvm-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+---
+
+### 🧠 Areas of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20RAG-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database%20Systems-222222?style=for-the-badge" />
+</p>
+
 
 ---
 
@@ -61,7 +113,7 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sky471012&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
