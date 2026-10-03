@@ -50,14 +50,11 @@
 ### 🤖 AI & GenAI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=langchain" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-222222?style=for-the-badge" />
 </p>
 
 ### 🛠️ Developer Tools & Platforms
@@ -86,7 +83,6 @@
   <img src="https://img.shields.io/badge/Database%20Systems-222222?style=for-the-badge" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -108,7 +104,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sky471012&theme=onedark&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sky471012&theme=onedark&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
